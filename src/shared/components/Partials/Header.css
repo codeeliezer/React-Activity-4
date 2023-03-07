@@ -1,0 +1,12 @@
+.headerCss {
+ flex: auto;
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  width: 100%;
+  height: 50px;
+  color: blue;
+  background-color: black;
+
+
+}
